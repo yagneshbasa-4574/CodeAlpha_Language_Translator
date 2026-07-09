@@ -1,15 +1,15 @@
 
 ----------------------------------------
-Date : 08-07-2026 20:05:50
+Date : 09-07-2026 10:43:19
 
 Source : auto
-Target : telugu
+Target : hindi
 
 Input :
-hello friends welcome to my studio
+Hello everyone
 
 Output :
-హలో ఫ్రెండ్స్ నా స్టూడియోకి స్వాగతం
+सभी को नमस्कार
 
 ----------------------------------------
 
