@@ -80,9 +80,23 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
+## 📷 Application Screenshots
 
-(Add screenshots after uploading the project.)
+### 🏠 Home Page
+
+![Home Page](assets/home.png)
+
+---
+
+### 🌍 Translation Example
+
+![Translation](assets/translation.png)
+
+---
+
+### 📜 Translation History
+
+![History](assets/history.png)
 
 ---
 
